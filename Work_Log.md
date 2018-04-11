@@ -16,3 +16,8 @@
 * We discussed ways to solve the bug, left a comment asking for more guidance
 * We updated milestones
 * We are still having issues trying to run the program on Ubuntu
+
+## April 10, 2018 
+* Ryan had issues trying to install the program onto the computer, so he messaged the Discord Chat
+* Ashley messaged the Discord Chat for clarification/more information on an Issue
+* Dora looked for more potential issues that can be done
