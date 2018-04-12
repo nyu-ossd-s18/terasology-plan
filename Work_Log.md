@@ -19,5 +19,8 @@
 
 ## April 10, 2018 
 * Ryan had issues trying to install the program onto the computer, so he messaged the Discord Chat
-* Ashley messaged the Discord Chat for clarification/more information on an Issue
+* Ashley messaged the Discord Chat for clarification/more information on an Issue and looked at closed issues for more information
 * Dora looked for more potential issues that can be done
+
+## April 12, 2018
+* Modified code and did testing with the new code
