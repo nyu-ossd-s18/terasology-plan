@@ -18,12 +18,19 @@
 * We are still having issues trying to run the program on Ubuntu
 
 ## April 10, 2018 
-* Ryan had issues trying to install the program onto the computer, so he messaged the Discord Chat
-* Ashley messaged the Discord Chat for clarification/more information on an Issue and looked at closed issues for more information
-* Dora looked for more potential issues that can be done
-* Suyasha and Ola looked fore more potential issues that can be done
+* Ryan had issues trying to install the program onto the computer, so he messaged the Discord chat
+* Ashley messaged the Discord for clarification and more information on an issue, looked at closed issues for more information
+* Dora:
+    * looked for more potential issues that could be worked on as a team as well as smaller issues
+    * recloned fork and set up properly with IntelliJ (cloned from the project the first time, then accidentally opened before running ./gradlew idea); 
+* the three of us noticed the create game menu for both singleplayer and multiplayer got cut off, Dora looked through the UI files and made the menu scrollable but later Suyasha told us that people were already working on that issue. Dora is still looking for ways to improve upon their solution
 
-## April 12, 2018
-* We modified code and did testing with the new code
-* We looked for more issues that can be tackeled
+* Suyasha and Ola were not in class but looked for more potential issues that can be done
+
+## April 11, 2018
+* Suyasha added a snow block and Dora added a new texture for the snow block but that might've been the incorrect interpretation of what they were asking for
+* Suyasha and Ryan did some multiplayer testing
+* Dora working on making the player light up when a torch is held, tried testing with Ashley but couldn't quite get it to work, more research required
+* Suyasha found a new issue regarding snow that involves giving players random damage as they walk on the snow.
+
 
