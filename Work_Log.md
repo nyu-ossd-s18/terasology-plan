@@ -20,9 +20,7 @@
 ## April 10, 2018 
 * Ryan had issues trying to install the program onto the computer, so he messaged the Discord chat
 * Ashley messaged the Discord for clarification and more information on an issue, looked at closed issues for more information
-* Dora:
-    * looked for more potential issues that could be worked on as a team as well as smaller issues
-    * recloned fork and set up properly with IntelliJ (cloned from the project the first time, then accidentally opened before running ./gradlew idea); 
+* Dora looked for more potential issues that could be worked on as a team as well as smaller issues; also had to reclone fork and set up properly with IntelliJ (cloned from the Terasology project the first time, then downloaded properly but accidentally opened before running ./gradlew idea); 
 * the three of us noticed the create game menu for both singleplayer and multiplayer got cut off, Dora looked through the UI files and made the menu scrollable but later Suyasha told us that people were already working on that issue. Dora is still looking for ways to improve upon their solution
 
 * Suyasha and Ola were not in class but looked for more potential issues that can be done
