@@ -31,4 +31,10 @@
 * Dora working on making the player light up when a torch is held, tried testing with Ashley but couldn't quite get it to work, more research required
 * Suyasha found a new issue regarding snow that involves giving players random damage as they walk on the snow.
 
+## April 14, 2018
+* We found out what they were actually asking for when they wanted a snow slab
+* Dora and Suyasha are looking into adding snow into the existing WeatherModule module
+* Ryan is creating 1/2 and 1/4 snow slab textures 
+* Ashley is working on damaging players as they walk on snow
+* Ola is working on implementing snow slabs piling up into bigger snow blocks
 
