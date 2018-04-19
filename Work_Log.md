@@ -49,3 +49,4 @@
 ## April 18, 2018
 * We continued to look at the issues we are working on
 * We messaged the discord chat for help and information
+* Found command for Ryan's game to run on his laptop: `LIBGL_ALWAYS_SOFTWARE=1 ./gradlew game`
