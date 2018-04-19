@@ -41,6 +41,11 @@
 ## April 17, 2018
 * Dora was looking at [broadcasting events](https://metaterasology.github.io/docs/developing/networkMultiplayer/networkEvents.html#broadcastevent) in her continued quest for solving the [torch issue](https://github.com/MovingBlocks/Terasology/issues/3280)
 * Suyasha, Ashley, Ryan, and Ola continued to work on the snow blocks, Suyasha had previously noticed that when placed, the snow texture disappears on one side
+* Ashley found out that she could not work on the initial issue of damaging players as they walk on snow because they got rid of systems in the current code that would make it possible
 * Suyasha and Ashley found ingots which seemingly have similar logic to what is needed for the snow slab, Suyasha, Ashley, Ryan, Ola are looking through the ingot logic and structure to see if it could be implemented in a way that works for snow
 * Dora and Ryan worked on reorganizing our repo since we had been committing to our fork instead of developing on separate branches
 * Dora and Suyasha noticed the texture for the axe icon was backwards, Dora found the texture and created a PR
+
+## April 18, 2018
+* We continued to look at the issues we are working on
+* We messaged the discord chat for help and information
