@@ -7,7 +7,8 @@ Issue number | Brief description | Worked on?
 --- | --- | --- 
 [Issue 3307](https://github.com/MovingBlocks/Terasology/issues/3307) | Add command for permanent daytime for dev purposes | Claimed but got sniped
 [Issue 3267](https://github.com/MovingBlocks/Terasology/issues/3267) | Players could jump on the surface of the water | Got sniped
-[Issue 3280](https://github.com/MovingBlocks/Terasology/issues/3280) | If you held a torch in multiplayer other people couldn't see the light | Worked on for a long time, read a lot of documentation, made commits (see below), tested, but ultimately got sniped :(((
+[Issue 2585](https://github.com/MovingBlocks/Terasology/issues/2585) | Some menu screens would get cut off if screen wasn't in full screen mode | Ryan, Ashley, Dora noticed this issue and Dora created a small fix by making the menu scroll and wrote up an issue + solution but then Suyasha told us they knew about this issue already and showed us this previously created issue, where they discussed that making the menu scroll didn't work well with drop downs and someone was in process of making a drop up. Dora took another look at possibly getting the drop down height and adding it to the length of the menu so the scrollable area would be sized correctly but she and Ola determined this was out of scope
+[Issue 3280](https://github.com/MovingBlocks/Terasology/issues/3280) | If you held a torch in multiplayer other people couldn't see the light | Worked on for a long time: Dora read [some](https://metaterasology.github.io/docs/developing/networkMultiplayer/networkEvents.html) [documentation](https://metaterasology.github.io/docs/developing/entitySystem/events.html?highlight=receiveevent), made commits (see below), tested with Ashley and Ryan, but ultimately issue got sniped
 [Issue 2943](https://github.com/MovingBlocks/Terasology/issues/2943) | Torch still lights up underwater | Seemed out of scope
 N/A | Suyasha and Dora noticed the axe texture was backwards | Successfully made a PR
 
@@ -39,9 +40,13 @@ List of commits to the fork repository in the class organization
   - (I made other commits to dev-snow before we separated our fork into branches, so I made a few commits to clean up previous commits made that didn't belong in this branch) 
 
 **Ola:**
+- TBA
 
 **Ryan:**
+- TBA
 
 **Ashley:**
+- TBA
 
 **Suyasha:**
+- TBA
