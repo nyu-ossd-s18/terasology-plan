@@ -5,9 +5,9 @@
 
 Issue number | Brief description | Worked on?
 --- | --- | --- 
-[Issue 3307](https://github.com/MovingBlocks/Terasology/issues/3307) | Add command for permanent daytime for dev purposes | Got sniped
+[Issue 3307](https://github.com/MovingBlocks/Terasology/issues/3307) | Add command for permanent daytime for dev purposes | Claimed but got sniped
 [Issue 3267](https://github.com/MovingBlocks/Terasology/issues/3267) | Players could jump on the surface of the water | Got sniped
-[Issue 3280](https://github.com/MovingBlocks/Terasology/issues/3280) | If you held a torch in multiplayer other people couldn't see the light | Worked on for a long time, read a lot of documentation, made commits, tested, but ultimately got sniped :(((
+[Issue 3280](https://github.com/MovingBlocks/Terasology/issues/3280) | If you held a torch in multiplayer other people couldn't see the light | Worked on for a long time, read a lot of documentation, made commits (see below), tested, but ultimately got sniped :(((
 N/A | Suyasha and Dora noticed the axe texture was backwards | Successfully made a PR
 
 
