@@ -46,7 +46,16 @@ List of commits to the fork repository in the class organization
 - TBA
 
 **Ashley:**
-- TBA
+- dev-snow: 
+The first 2 commits were my initial attempts at adding damage on the snow block. I continued working on the code for a bit, and then I eventually asked for clarification on a question that I had about the feature in the discord channel. However I was told that the system was gone due to technical limitations so it was not feasible for me to implement damage on snow blocks, so I scrapped the other changes made to the code.  
+  1. [First commit on adding entity to prefab](https://github.com/nyu-ossd-s18/Terasology/commit/1e727ba8959a49653c2b37a98aaded1a20395036) 
+  2. [Added damage component onto snow block](https://github.com/nyu-ossd-s18/Terasology/commit/837519fe52aa71184e9e31f2108a32393e4a185d)  
+Began working on another issue starting here 
+  3. [Setup of component classes and connecting it to snowslab block](https://github.com/nyu-ossd-s18/Terasology/commit/db27a5d8a65c8cbd879c3384568c1ca25ba642de) 
+  4. [Added some initial logic to stack system](https://github.com/nyu-ossd-s18/Terasology/commit/75c6bbef859188bc9b29fd1e49a7f4f6e1ef2733)
+  5. [Moved files not a new folder](https://github.com/nyu-ossd-s18/Terasology/commit/33319f0c8cb074b6b6b4abbab9c8d2eac350c630) 
+  6. [Added missing import and fixed variable name](https://github.com/nyu-ossd-s18/Terasology/commit/5ecee086d6e284947f7d62b10517455f4fb35ced)
+  
 
 **Suyasha:**
 - TBA
