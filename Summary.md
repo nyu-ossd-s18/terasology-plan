@@ -40,7 +40,7 @@ List of commits to the fork repository in the class organization
   - (I made other commits to dev-snow before we separated our fork into branches, so I made a few commits to clean up previous commits made that didn't belong in this branch) 
 
 **Ola:**
-- TBA
+- dev-docs [edits for submitted pr](https://github.com/nyu-ossd-s18/Terasology/commit/8106634720bfdf5598be823dcd1fb1ee848660fc)
 
 **Ryan:**
 - TBA
