@@ -43,7 +43,14 @@ List of commits to the fork repository in the class organization
 - dev-docs [edits for submitted pr](https://github.com/nyu-ossd-s18/Terasology/commit/8106634720bfdf5598be823dcd1fb1ee848660fc)
 
 **Ryan:**
-- TBA
+- dev-snow:
+  - [Adding stuff from Structural Resources to create slabs](https://github.com/nyu-ossd-s18/Terasology/commit/374e9bb635bf60d757474434585bb73643a3da59)
+  - [GIT MAN SAVES THE DAY](https://github.com/nyu-ossd-s18/Terasology/commit/d32be035babbe763d7d997df867c860f19f6ddac)
+  - [Setting up to replicate ingots from Structural Resources](https://github.com/nyu-ossd-s18/Terasology/commit/4117d314918953de1a11e7ecaca88adf6d0249af)
+  - [Adding stack shapes from Structural Resources](https://github.com/nyu-ossd-s18/Terasology/commit/b85028cec820810cd46ee4607e6538c2d0b9e87f)
+  - [Added some prefabs and blocks to try to get ingots to work](https://github.com/nyu-ossd-s18/Terasology/commit/b6760491dd2a62c9789f21b375642d8c256a3893)
+  - [GIT MAN TO THE RESCUE](https://github.com/nyu-ossd-s18/Terasology/commit/5f239cce59f9d1323556900aec39c49350ef5b76)
+  - [Fixed a missing bracket in IngotComponent.java](https://github.com/nyu-ossd-s18/Terasology/commit/79f9e25296c4af988068d1c6f368a22dbb5b78de)
 
 **Ashley:**
 - dev-snow: 
@@ -55,7 +62,6 @@ Began working on another issue starting here
   4. [Added some initial logic to stack system](https://github.com/nyu-ossd-s18/Terasology/commit/75c6bbef859188bc9b29fd1e49a7f4f6e1ef2733)
   5. [Moved files not a new folder](https://github.com/nyu-ossd-s18/Terasology/commit/33319f0c8cb074b6b6b4abbab9c8d2eac350c630) 
   6. [Added missing import and fixed variable name](https://github.com/nyu-ossd-s18/Terasology/commit/5ecee086d6e284947f7d62b10517455f4fb35ced)
-  
 
 **Suyasha:**
 - dev-snow:
