@@ -21,7 +21,7 @@ N/A| Ola noticed that the read me didn't include a link to their Discord or a li
 PR number | Status | Who worked on it? | Brief description 
 --- | --- | --- | ---
 [PR 3330](https://github.com/MovingBlocks/Terasology/pull/3330) | Accepted | Dora | PR to fix the backwards axe texture as noted [here](https://github.com/MovingBlocks/Terasology/pull/2876)
-[PR 3339](https://github.com/MovingBlocks/Terasology/pull/3339#issuecomment-384012084)| Open | add links to read me as mentioned above
+[PR 3339](https://github.com/MovingBlocks/Terasology/pull/3339#issuecomment-384012084)| Open | Ola |add links to read me as mentioned above
 
 ## For each group member individually: 
 List of commits to the fork repository in the class organization
