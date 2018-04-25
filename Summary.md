@@ -64,3 +64,4 @@ Began working on another issue starting here
   - [Add eight snow slab](https://github.com/nyu-ossd-s18/Terasology/commit/b59599893f260ed9017d4ca1df9471618644c143)
   - [Add texture to slab](https://github.com/nyu-ossd-s18/Terasology/commit/c3bc1e773ce86542fe0c48ed83a6f889cd9799c1)
   - [Make eight snow slab penetrable](https://github.com/nyu-ossd-s18/Terasology/commit/4aeacafdb42fde3cbbbcc0eb1f2c3b6f0895ce24)
+  - [Fixed typo](https://github.com/Terasology/TutorialAssetSystem/wiki/Add-A-Dice)
