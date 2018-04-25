@@ -11,7 +11,7 @@ Issue number | Brief description | Worked on?
 [Issue 3280](https://github.com/MovingBlocks/Terasology/issues/3280) | If you held a torch in multiplayer other people couldn't see the light | Worked on for a long time: Dora read [some](https://metaterasology.github.io/docs/developing/networkMultiplayer/networkEvents.html) [documentation](https://metaterasology.github.io/docs/developing/entitySystem/events.html?highlight=receiveevent), made commits (see below), tested with Ashley and Ryan, but ultimately issue got sniped
 [Issue 2943](https://github.com/MovingBlocks/Terasology/issues/2943) | Torch still lights up underwater | Seemed out of scope
 N/A | Suyasha and Dora noticed the axe texture was backwards | Successfully made a PR
-
+N/A| Ola noticed that the read me didn't include a link to their Discord or a link to IntelliJ download for those who might be interested
 
 ## List of pull requests with current status and who worked on it
 <!-- Status options: accepted, rejected, still waiting, making changes, etc-->
@@ -21,7 +21,7 @@ N/A | Suyasha and Dora noticed the axe texture was backwards | Successfully made
 PR number | Status | Who worked on it? | Brief description 
 --- | --- | --- | ---
 [PR 3330](https://github.com/MovingBlocks/Terasology/pull/3330) | Accepted | Dora | PR to fix the backwards axe texture as noted [here](https://github.com/MovingBlocks/Terasology/pull/2876)
-
+[PR 3339](https://github.com/MovingBlocks/Terasology/pull/3339#issuecomment-384012084)| Open | add links to read me as mentioned above
 
 ## For each group member individually: 
 List of commits to the fork repository in the class organization
