@@ -58,4 +58,9 @@ Began working on another issue starting here
   
 
 **Suyasha:**
-- TBA
+- dev-snow:
+  - [Add quarter snow slab](https://github.com/nyu-ossd-s18/Terasology/commit/f922805e1badefde9c84a76d524ffb6755a8020e)
+  - [Add half snow slab](https://github.com/nyu-ossd-s18/Terasology/commit/6be3801c544ce64c76899f45fdbbfac5975d2b07)
+  - [Add eight snow slab](https://github.com/nyu-ossd-s18/Terasology/commit/b59599893f260ed9017d4ca1df9471618644c143)
+  - [Add texture to slab](https://github.com/nyu-ossd-s18/Terasology/commit/c3bc1e773ce86542fe0c48ed83a6f889cd9799c1)
+  - [Make eight snow slab penetrable](https://github.com/nyu-ossd-s18/Terasology/commit/4aeacafdb42fde3cbbbcc0eb1f2c3b6f0895ce24)
