@@ -50,3 +50,10 @@
 * We continued to look at the issues we are working on
 * We messaged the discord chat for help and information
 * Found command for Ryan's game to run on his laptop: `LIBGL_ALWAYS_SOFTWARE=1 ./gradlew game`
+
+## April 25, 2018
+* Ola added content to the presentation and looked for another small fix to contribute.
+* Suyasha continued working on the snow issue and snowshoes.
+* Ryan asked for help on Discord about stacking snow.
+* Ashley and Ryan worked on getting snow to stack.
+* Dora looked into a UI fix.
