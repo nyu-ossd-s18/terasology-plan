@@ -68,6 +68,9 @@ Began working on another issue starting here
   - [Moved files not a new folder](https://github.com/nyu-ossd-s18/Terasology/commit/33319f0c8cb074b6b6b4abbab9c8d2eac350c630) 
   - [Added missing import and fixed variable name](https://github.com/nyu-ossd-s18/Terasology/commit/5ecee086d6e284947f7d62b10517455f4fb35ced)
   - [Fixed a broken link](https://github.com/Terasology/TutorialAssetSystem/wiki/Add-A-Dice/_history)
+  - [Fixed up files for PR](https://github.com/nyu-ossd-s18/Terasology/commit/30bf925b814eadaf49fb2ccb30c74c86128b190f)
+- dev-snow2 (branched off the stacking):
+  - [Attempted to stack using new logic](https://github.com/nyu-ossd-s18/Terasology/commit/d7354ffe63410ad8656f0179baf7a8e0d3872d5e)
   
 
 **Suyasha:**
