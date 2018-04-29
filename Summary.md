@@ -66,7 +66,7 @@ Began working on another issue starting here
   - [Setup of component classes and connecting it to snowslab block](https://github.com/nyu-ossd-s18/Terasology/commit/db27a5d8a65c8cbd879c3384568c1ca25ba642de) 
   - [Added some initial logic to stack system](https://github.com/nyu-ossd-s18/Terasology/commit/75c6bbef859188bc9b29fd1e49a7f4f6e1ef2733)
   - [Moved files not a new folder](https://github.com/nyu-ossd-s18/Terasology/commit/33319f0c8cb074b6b6b4abbab9c8d2eac350c630) 
-  - [Added missing import and fixed variable name](https://github.com/nyu-ossd-s18/Terasology/commit/5ecee086d6e284947f7d62b10517455f4fb35ced)]
+  - [Added missing import and fixed variable name](https://github.com/nyu-ossd-s18/Terasology/commit/5ecee086d6e284947f7d62b10517455f4fb35ced)
   - [Fixed a broken link](https://github.com/Terasology/TutorialAssetSystem/wiki/Add-A-Dice/_history)
   
 
