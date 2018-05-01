@@ -45,6 +45,7 @@ List of commits to the fork repository in the class organization
   - (I made other commits to dev-snow before we separated our fork into branches, so I made a few commits to clean up previous commits made that didn't belong in this branch) 
   - [Added snowshoe texture and added to item atlas](https://github.com/nyu-ossd-s18/Terasology/commit/7e39860f84716290192b96aea55c62c6773c6eac)
   - [Modified snowshoe texture, added to game by editing prefab](https://github.com/nyu-ossd-s18/Terasology/commit/006b5a94ad3567beeec8d3ac3fce4cd4fdedcc92)
+  - [Edited the ingame name of snowshoe](https://github.com/nyu-ossd-s18/Terasology/commit/3a28c21a7712954f3c8239116c08a20f6c6c186d)
 - [dev-ui](https://github.com/nyu-ossd-s18/Terasology/commits/dev-ui)
   - (didn't commit yet but modified UI files to try fixing issue with dropdown menus)
 
