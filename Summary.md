@@ -1,3 +1,6 @@
+## Presentation
+Slides can be found [here](https://docs.google.com/presentation/d/1Gw7IQRtdptrZXj8054ghJTc_AziZx-_7Xpdz38cEmBo/edit?usp=sharing)
+
 ## List of attempted/considered issues 
 <include brief comment stating if you decided to work on it or not and how successful the work was>
 <include link in issue number>
