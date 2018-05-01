@@ -26,6 +26,7 @@ PR number | Status | Who worked on it? | Brief description
 [PR 3330](https://github.com/MovingBlocks/Terasology/pull/3330) | Accepted | Dora | PR to fix the backwards axe texture as noted [here](https://github.com/MovingBlocks/Terasology/pull/2876)
 [PR 3339](https://github.com/MovingBlocks/Terasology/pull/3339#issuecomment-384012084)| Accepted| Ola |add links to read me as mentioned above
 [PR 3348](https://github.com/MovingBlocks/Terasology/pull/3348)| Accepted| Ola | Add heading for headless server
+[PR 3349](https://github.com/MovingBlocks/Terasology/pull/3349)| Open | Ashley | PR to add snow shoes and snow slabs
 
 ## For each group member individually: 
 List of commits to the fork repository in the class organization
