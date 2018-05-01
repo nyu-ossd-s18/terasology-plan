@@ -13,7 +13,7 @@ Issue number | Brief description | Worked on?
 N/A | Suyasha and Dora noticed the axe texture was backwards | Successfully made a PR
 N/A| Ola noticed that the read me didn't include a link to their Discord or a link to IntelliJ download for those who might be interested| PR was accepted
 [Issue 2406](https://github.com/MovingBlocks/Terasology/issues/2406) | Main group issue involving the addition of snow slabs, its associated functionality, and snowshoes to the game | Suyasha added various snow slabs and a new snowshoe item, Ryan and Ashley worked on stacking logic, Dora added texturing for snowshoes
-[Issue 2378](https://github.com/MovingBlocks/Terasology/issues/2378) | Some sounds in multiplayer play as if it was distance 0 from all players| Ola is working on it.
+[Issue 2378](https://github.com/MovingBlocks/Terasology/issues/2378) | Some sounds in multiplayer play as if it was distance 0 from all players| committed some progress but not ready for pr 
 N/A| Ola noticed that the instructions for configuring a headless server section was missing a heading in Playing.md| PR was accepted
 
 ## List of pull requests with current status and who worked on it
@@ -51,6 +51,7 @@ List of commits to the fork repository in the class organization
 - dev-docs [edits for submitted pr](https://github.com/nyu-ossd-s18/Terasology/commit/8106634720bfdf5598be823dcd1fb1ee848660fc)
 -  [edits for heading pr](https://github.com/nyu-ossd-s18/Terasology/commit/e408de084b2c50164c14941a8c635a2e8f79af3f)
 - [update from upstream](https://github.com/nyu-ossd-s18/Terasology/commit/6fe046e96f21700a61201925c8718198eb5b8bc7)
+- dev-sfx [save progress](https://github.com/nyu-ossd-s18/Terasology/commit/57d99940bc39485df517dd40c95633a8754ee57f)
 
 **Ryan:**
 - dev-snow:
