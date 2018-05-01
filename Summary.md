@@ -14,6 +14,7 @@ N/A | Suyasha and Dora noticed the axe texture was backwards | Successfully made
 N/A| Ola noticed that the read me didn't include a link to their Discord or a link to IntelliJ download for those who might be interested| PR was accepted
 [Issue 2406](https://github.com/MovingBlocks/Terasology/issues/2406) | Main group issue involving the addition of snow slabs, its associated functionality, and snowshoes to the game | Suyasha added various snow slabs and a new snowshoe item, Ryan and Ashley worked on stacking logic, Dora added texturing for snowshoes
 [Issue 2378](https://github.com/MovingBlocks/Terasology/issues/2378) | Some sounds in multiplayer play as if it was distance 0 from all players| Ola is working on it.
+N/A| Ola noticed that the instructions for configuring a headless server section was missing a heading in Playing.md| PR was accepted
 
 ## List of pull requests with current status and who worked on it
 <!-- Status options: accepted, rejected, still waiting, making changes, etc-->
@@ -24,6 +25,7 @@ PR number | Status | Who worked on it? | Brief description
 --- | --- | --- | ---
 [PR 3330](https://github.com/MovingBlocks/Terasology/pull/3330) | Accepted | Dora | PR to fix the backwards axe texture as noted [here](https://github.com/MovingBlocks/Terasology/pull/2876)
 [PR 3339](https://github.com/MovingBlocks/Terasology/pull/3339#issuecomment-384012084)| Accepted| Ola |add links to read me as mentioned above
+[PR 3348](https://github.com/MovingBlocks/Terasology/pull/3348)| Accepted| Ola | Add heading for headless server
 
 ## For each group member individually: 
 List of commits to the fork repository in the class organization
@@ -47,6 +49,8 @@ List of commits to the fork repository in the class organization
 
 **Ola:**
 - dev-docs [edits for submitted pr](https://github.com/nyu-ossd-s18/Terasology/commit/8106634720bfdf5598be823dcd1fb1ee848660fc)
+-  [edits for heading pr](https://github.com/nyu-ossd-s18/Terasology/commit/e408de084b2c50164c14941a8c635a2e8f79af3f)
+- [update from upstream](https://github.com/nyu-ossd-s18/Terasology/commit/6fe046e96f21700a61201925c8718198eb5b8bc7)
 
 **Ryan:**
 - dev-snow:
